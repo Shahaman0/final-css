@@ -1,0 +1,100 @@
+.navbar-brand{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.graph-1{
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    height: 400px;
+    width: 100%;
+    
+}
+.about{
+    
+    border: 2px solid rgb(0, 0, 0);
+    height: 300px;
+    width: 600px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300; 
+    padding-left: 200px;
+    margin-top: 60px;
+    
+}
+.my-img{
+
+    margin-top: -260px;
+    margin-left: 500px;
+    border: 2px solid rgb(0, 0, 0);
+    height: 300px;
+    width: 200px;
+}
+.i-do{
+    background-color: black;
+    margin-top: 10.5px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    height: 500px;
+    width: 100%;
+    margin: 0;
+}
+.work-1{
+    margin-top: -350px;
+    margin: 30px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    height: 300px;
+    width: 250px;   
+}
+
+.work-2{
+    margin: 20px;
+    margin-left: 500px;
+    margin-top: -320px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    height: 300px;
+    width: 250px;
+}
+.work-3{
+    margin: 20px;
+    margin-left: 1000px;
+    margin-top: -320px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    height: 300px;
+    width: 250px;
+}
+.form{
+    margin: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    height: 300px;
+    width: 400px;
+}
+.cards-1{
+   
+    margin: 50px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex inline;
+}
+#cardid{
+   margin: 500px;
+   margin-top: -480px;
+}
+#cardid-2{
+    margin: 400px;
+    margin-top: -460px;
+ }
+
+#h1work{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#card-2{
+    margin-top: -400px;
+    margin-left: 500px;
+}
+#card-3{
+    margin-top: -400px;
+    margin-left: 900px
+}
